@@ -5,7 +5,7 @@ In general, ACM's aim is to check if a measured object is in fact quantifiable. 
 
 This implementation operates on a temperament test PTS by Strealu and Zawadzki with four-levels ordinal scale, 57 items and three subtests. 
 
-It showcases my skills in programming, data analysis and ability to read advanced mathematical theories. 
+It showcases my skills in programming, data analysis and the ability to understand advanced mathematical theories. 
 
 
 
